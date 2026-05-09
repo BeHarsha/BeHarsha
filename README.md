@@ -8,7 +8,7 @@ Skills & Tools
 Languages - SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 BI & Visualization - Power BI (DAX), Tableau 
 Databases - MySQL, PostgreSQL 
-Spreadsheets - Excel (Pivot Tables, VLOOKUP, Conditional Formatting) 
+Spreadsheets - Excel (Pivot Tables, LOOKUP, Conditional Formatting) 
 Statistics - Hypothesis Testing, Regression, Correlation 
 Environment - Jupyter Notebook, VS Code, GitHub 
 
