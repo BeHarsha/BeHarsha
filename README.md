@@ -1,4 +1,4 @@
-Hello, I'm Deva Harsha
+Hello, I'm Bethineedi Deva Harsha
 
 I'm a Data Analyst based in Hyderabad, India — passionate about turning raw data into clear, actionable business insights.
 
