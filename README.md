@@ -6,10 +6,15 @@ I'm a Data Analyst based in Hyderabad, India — passionate about turning raw da
 Skills & Tools
 
 Languages - SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) |
+
 BI & Visualization - Power BI (DAX), Tableau |
+
 Databases - MySQL, PostgreSQL |
+
 Spreadsheets - Excel (Pivot Tables, LOOKUP, Conditional Formatting) |
+
 Statistics - Hypothesis Testing, Regression, Correlation |
+
 Environment - Jupyter Notebook, VS Code, GitHub |
 
 
