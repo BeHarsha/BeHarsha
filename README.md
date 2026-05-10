@@ -3,6 +3,7 @@ Hello, I'm Bethineedi Deva Harsha
 I'm a Data Analyst based in Hyderabad, India — passionate about turning raw data into clear, actionable business insights.
 
 
+
 Skills & Tools
 
 Languages - SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) |
@@ -18,6 +19,7 @@ Statistics - Hypothesis Testing, Regression, Correlation |
 Environment - Jupyter Notebook, VS Code, GitHub |
 
 
+
 Featured Projects
 
 [Banking Insights and Decision Support System](https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_System)
@@ -31,10 +33,12 @@ Python · SQL · Power BI · DAX
 Analyzed 3,900 customer records across 18 variables to uncover purchasing patterns, top-performing regions, and revenue-driving product categories.
 
 
+
 Certifications
 - Data Analytics with Generative AI — Simplilearn
 - Introduction to Data Analytics — Simplilearn
 - Introduction to Microsoft Excel — Simplilearn
+
 
 
 Let's Connect
