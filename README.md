@@ -23,7 +23,7 @@ Featured Projects
 [Banking Insights and Decision Support System](https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_System)
 SQL · Power BI · Data Modelling
 
-Analyzed 38,576 loan applications worth $435.8M to surface portfolio risk, MoM trends, and borrower segmentation for financial decision-making.
+Analyzed 3,000 loan applications worth $435.8M to surface portfolio risk, MoM trends, and borrower segmentation for financial decision-making.
 
 [Retail Customer Shopping Analysis](https://github.com/BeHarsha/Retail_Customer_Shopping_Analysis)
 Python · SQL · Power BI · DAX
