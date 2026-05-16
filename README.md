@@ -1,3 +1,13 @@
+![Profile Views](https://img.shields.io/badge/Profile-Data%20Analyst-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Computing-013243)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success)
+
 ## Hello, I'm Bethineedi Deva Harsha
 
 I'm a Data Analyst based in Hyderabad, India — passionate about turning raw data into clear, actionable business insights.
