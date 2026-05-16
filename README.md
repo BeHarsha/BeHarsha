@@ -21,11 +21,13 @@ Environment - Jupyter Notebook, VS Code, GitHub |
 ## Featured Projects
 
 [Banking Insights and Decision Support System](https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_System)
+
 SQL · Power BI · Data Modelling · Python
 
 Analyzed 3,000 loan applications worth $435.8M to surface portfolio risk, MoM trends, and borrower segmentation for financial decision-making.
 
 [Retail Customer Shopping Analysis](https://github.com/BeHarsha/Retail_Customer_Shopping_Analysis)
+
 Python · SQL · Power BI · DAX
 
 Analyzed 3,900 customer records across 18 variables to uncover purchasing patterns, top-performing regions, and revenue-driving product categories.
