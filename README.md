@@ -48,12 +48,19 @@ Analyzed 3,900 customer records across 18 variables to uncover purchasing patter
 
 
 ## Certifications
+- Data Analytics Essentials — Cisco Networking Academy
 - Data Analytics with Generative AI — Simplilearn
 - Introduction to Data Analytics — Simplilearn
 - Introduction to Microsoft Excel — Simplilearn
 
 
+## Achievements
+- Data Analytics Essentials Badge — Cisco Networking Academy
+
+
 ## Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/bethineedi-deva-harsha-3933aa2a9)
-- 📧 harsha.fieldmaster@gmail.com
-- 📍 Hyderabad | Open to Relocate.
+- [LinkedIn](https://www.linkedin.com/in/bethineedi-deva-harsha-3933aa2a9)
+- [Portfolio](https://beharsha.github.io/)
+- harsha.fieldmaster@gmail.com
+- Hyderabad | Open to Relocate.
+
